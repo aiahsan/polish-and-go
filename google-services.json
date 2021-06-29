@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874908654319",
+    "firebase_url": "https://polishngo-5d0d2.firebaseio.com",
+    "project_id": "polishngo-5d0d2",
+    "storage_bucket": "polishngo-5d0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874908654319:android:34c231be67445af4d3991a",
+        "android_client_info": {
+          "package_name": "com.webzards.PolishnGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874908654319-a13ut42h6gt1achcmt3c8fm5grjpobs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOyveQCmpaEWt1E0pMY2iCGeBHvjE_NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874908654319-a13ut42h6gt1achcmt3c8fm5grjpobs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
